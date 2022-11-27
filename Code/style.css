@@ -1,0 +1,15 @@
+.social_media {
+    display: flex;
+    height: 50px;
+    width: 50px;
+}
+
+button:hover {
+
+    color: white;
+    font-size: 45px;
+    border-radius: 50px;
+    padding: 0 16px;
+    cursor: pointer;
+    transition: all 0.9s ease-in-out;
+}
